@@ -1,22 +1,22 @@
 {
   "name": "CSXSSRepo",
-  "id": "CSXSkyeStreamPort.repo",
-  "description": "SkyeStream port of CSX providers",
+  "id": "CSXSSRepo.package",
+  "description": "SkyeStream Plugins",
   "manifestVersion": 1,
   "plugins": [
     {
       "name": "Bollyflix",
-      "url": "https://SameerUllah28.github.io/CSXSSRepo/plugins/bollyflix.js",
+      "url": "https://sameerullah28.github.io/CSXSSRepo/plugins/bollyflix.js",
       "version": 1
     },
     {
       "name": "VegaMovies",
-      "url": "https://SameerUllah28.github.io/CSXSSRepo/plugins/vegamovies.js",
+      "url": "https://sameerullah28.github.io/CSXSSRepo/plugins/vegamovies.js",
       "version": 1
     },
     {
       "name": "MoviesMod",
-      "url": "https://SameerUllah28.github.io/CSXSSRepo/plugins/moviesmod.js",
+      "url": "https://sameerullah28.github.io/CSXSSRepo/plugins/moviesmod.js",
       "version": 1
     }
   ]
