@@ -1,9 +1,9 @@
 {
   "name": "CSXSS Mega Repo",
-  "id": "CSXSkyeStreamPort.mega",
-  "description": "Collection of CSX SkyeStream repos",
+  "id": "CSXSSRepo.mega",
+  "description": "Collection of repos",
   "manifestVersion": 1,
   "repos": [
-    "https://SameerUllah28.github.io/CSXSSRepo/repo.json"
+    "https://sameerullah28.github.io/CSXSSRepo/repo.json"
   ]
 }
